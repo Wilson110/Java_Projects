@@ -6,7 +6,7 @@ A collection of projects written in Java.
 ## Contents
 * **Tech_Jobs_Console**: a job search app that can be ran in a console
 * **Tech_Jobs_MVC**: The 2nd stage minimal viable product of the job search app
-* **Tech_Jobs_MVC**: Final stage of the job search app written using object oriented programming patterns
+* **Tech_Jobs_OO**: Final stage of the job search app written using object oriented programming patterns
 * **Cheese_MVC**: An app that uses search functionality
 * **Cheese_MVC_Persistent**: Final stage of the Cheese MVC
 
